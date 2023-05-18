@@ -1,8 +1,8 @@
 # Task-List
 
-
-Developing a lovely-ice-cream web app using Vue.js complete with secure login and logout functionality through Google Firebase! Your use of CSS3 grid, flexbox, transform, and BEM convention for optimal UI design is commendable and contributes to the visually appealing and responsive experience of the app on various screen sizes.
+ This is a Task-List Front-End built using the JavaScript framework. It includes several tech stacks, such as HTML5, and CSS3  for state management. The project follows the CSS BEM Convention and is fully responsive on all devices.
 
 # Demo
 
 ##### Here's Working demo
+[New Recording - 5_18_2023, 5_48_50 PM.webm](https://github.com/mdsiamsheikh/Task-List/assets/97788837/baed1424-c0fd-4327-bb77-3d318a938784)
