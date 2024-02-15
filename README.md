@@ -1,6 +1,6 @@
 # Task-List
 
- This is a Task-List Front-End built using the JavaScript framework. It includes several tech stacks, such as HTML5, and CSS3  for state management. The project follows the CSS BEM Convention and is fully responsive on all devices.
+This is a responsive Task-List Front-End created with a JavaScript framework, featuring HTML5 and CSS3 for state management. The implementation adheres to the CSS BEM Convention, ensuring a structured and maintainable codebase for optimal performance across various devices.
 
 # Demo
 
