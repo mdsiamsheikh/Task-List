@@ -1,5 +1,5 @@
 # Task-List
-Task-List Front-End is built with a JavaScript framework, utilizing HTML5 and CSS3 for effective state management. The codebase follows the CSS BEM Convention, ensuring a well-organized structure for optimal performance on diverse platforms. The implementation focuses on responsiveness and maintainability, providing a structured solution for managing tasks.
+Task-List Front-End is built with a JavaScript framework, utilizing HTML5 and CSS3 for effective state management. The codebase follows the CSS BEM Convention, ensuring a well-organized structure for optimal performance on diverse platforms. The implementation focuses on responsiveness and maintainability, providing a structured solution for managing tasks
 
 # Demo
 
